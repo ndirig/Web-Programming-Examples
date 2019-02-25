@@ -1,0 +1,119 @@
+/* element */
+body {
+    background-color: #F8F8F8;
+    font-family: Helvetica, sans-serif;
+}
+footer {
+    height: 130px;
+    background-color: #707070;
+}
+header {
+    height: 150px;
+    background-color: rgb(245, 190, 40);
+}
+nav {
+    border: rob(64,64,64);
+    background-color: #404040;
+    padding-top: 1px;
+    height: 70px;
+}
+section {
+    margin-left: 15px;
+    margin-right: 10%;
+}
+footer div {
+    display: inline-block;
+}
+footer div #footerLogo {
+    display: inline-block;
+}
+ul {
+    padding-left: 40px;
+}
+
+/* id */
+#currentPage {
+    margin-left: ;
+    display: inline;
+    padding-top: 25px;
+    padding-bottom: 26px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#footerLogo {
+    padding-left: 35px;
+    padding-bottom: 10px;
+    width: 65%;
+}
+#contactFooter {
+    padding-top: 20px;
+    padding-right: 50px;
+}
+#headerLogo {
+    padding-left: 10px;
+    padding-top: 45px;
+}
+#licenseFooter {
+    padding-top: 20px;
+}
+#licenseFooter img {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    width: 30px;
+    padding-top: 10px;
+}
+#platformLogos {
+    margin-right: 50%;
+    margin-left: 3%;
+    text-align: center;
+}
+
+/* classes */
+.articleText {
+    font-size: 16px;
+    line-height: 125%;
+}
+.articleTitle {
+    font-weight: bold;
+    font-size: 24px;
+}
+.center {
+    text-align: ;
+}
+.headerLink {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.headerLink a {
+    color: white;
+}
+.licenseImage {
+    width: 200px;
+    padding-left: 30px;
+}
+.licenseRow:hover {
+    background-color: yellow;
+}
+.licenseRow {
+    display: inline-block;
+    width: 1000px;
+}
+.navigationList li {
+    display: inline-block;
+    padding-top: 10px;
+}
+.footerText {
+    margin: 3px;
+}
+.footerText a {
+    display: inline;
+}
+.platformImage {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+}
